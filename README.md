@@ -1,1 +1,1 @@
-# stock
+# stocking
